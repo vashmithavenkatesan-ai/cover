@@ -49,7 +49,7 @@ cover.html
             <div class="left">
                 <h4>FIRST EDITION</h4>
                 <div class="name">
-                    <p>VASHMITHA</p>
+                    <p>VASHMITHA(25015828)</p>
                 </div>
             </div>
 
@@ -96,8 +96,8 @@ body {
 
 .border {
     border: 4px solid red;
-    margin: 25px;
-    height: 100%;
+    margin: -7px;
+    height: 97%;
 
     padding: 15px;
     position: relative;
@@ -170,8 +170,7 @@ sub {
     position: relative;
 }
 ```
-## OUTPUT:
-![alt text](image.png)
+## OUTPUt:
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully
