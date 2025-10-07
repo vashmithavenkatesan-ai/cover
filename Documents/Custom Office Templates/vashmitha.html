@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<script>
+			function add()
+			{
+				var a=Number(document.getElementById("t1").value);
+				var b=Number(document.getElementById("t2").value);
+                                c=a+b;
+                                document.getElementById("t3").value=c
+			}
+		</script>
+	</head>
+	<body>
+
+		<label>Enter value of a</label>
+		<input type="text" id="t1"><br>
+                <lable>Enter the value of b</lable>
+                <input type="text" id="t2"><br>
+
+		<input type="submit" onclick="add()">
+                <input type="text" id="t3">
+	</body>
+</html>
