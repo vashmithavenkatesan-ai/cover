@@ -62,10 +62,6 @@ cover.html
             </div>
 
         </div>
-        <hr class="line">
-        <div class="div">
-            <p>SEC</p>
-        </div>
     </div>
 </body>
 </html>
@@ -171,6 +167,6 @@ sub {
 }
 ```
 ## OUTPUt:
-![alt text](<Screenshot (47).png>)
+![alt text](<Screenshot (48).png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully
